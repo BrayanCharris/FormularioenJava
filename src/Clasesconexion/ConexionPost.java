@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Clasesconexion;
 
 import java.sql.Connection;
@@ -11,7 +6,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author BrayanCharris
  */
 public class ConexionPost {
     public static String URL="jdbc:postgresql://localhost:5432/adsi56";

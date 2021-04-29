@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Clasesconexion;
 
 import Interfaz.MyVentana;
@@ -11,7 +6,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author User
+ * @author BrayanCharris
  */
 public class ConsultasPost {
     ConexionPost conexion=new ConexionPost();
